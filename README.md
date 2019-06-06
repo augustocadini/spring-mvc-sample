@@ -4,7 +4,7 @@
 
 * Spring version 5.1.3
 * Eclipse Oxygen for Java EE 
-* JKD 1.8
+* JDK 1.8
 * Tomcat 9
 
 # Features

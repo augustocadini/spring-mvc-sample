@@ -6,6 +6,6 @@ This project was tested using Eclipse and Tomcat 9.
 
 # Features
 
-* Getting content from Java Controller
+* Send and receive content from Java Controller
 * Page navigation using different ways
 * Spring form and submit

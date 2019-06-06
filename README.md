@@ -1,5 +1,7 @@
 # Spring MVC project sample
 
+This is a little project to show how to use the framework Spring MVC. Implements some resources' Spring MVC on front-end and back-end.
+
  # Environment
 
 * Spring version 5.1.3.RELEASE

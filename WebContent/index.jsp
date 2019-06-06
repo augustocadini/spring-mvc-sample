@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Spring MVC Tutorial Series by Crunchify.com</title>
+<title>Spring MVC</title>
 </head>
 <body>
 	<br>

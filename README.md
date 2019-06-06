@@ -14,3 +14,7 @@ This is a little project to show how to use the framework Spring MVC. Implements
 * Send and receive content from Java Controller
 * Page navigation using different ways
 * Spring form and submit
+
+
+
+![alt text](https://github.com/augustocadini/spring-mvc-sample/blob/master/spring-mvc-sample.png)

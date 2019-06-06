@@ -2,10 +2,10 @@
 
  # Environment
 
-* Spring version 5.1.3
+* Spring version 5.1.3.RELEASE
 * Eclipse Oxygen for Java EE 
 * JDK 1.8
-* Tomcat 9
+* Tomcat v9
 
 # Features
 

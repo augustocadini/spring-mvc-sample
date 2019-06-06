@@ -1,6 +1,6 @@
 # Spring MVC project sample
 
-This is a little project to show how to use the framework Spring MVC. Implements some resources on front-end and back-end.
+This is a little project to show how to use the framework Spring MVC. Implements some resources on front-end and back-end. Was tested using the Tomcat server.
 
  # Environment
 

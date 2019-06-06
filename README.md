@@ -1,8 +1,11 @@
 # Spring MVC project sample
 
-Spring version: 5.1.3
+ # Environment
 
-This project was tested using Eclipse and Tomcat 9.
+* Spring version 5.1.3
+* Eclipse Oxygen for Java EE 
+* JKD 1.8
+* Tomcat 9
 
 # Features
 
